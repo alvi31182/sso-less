@@ -2,7 +2,8 @@ package main
 
 import (
 	"context"
-	"sso-less/internal/config"
+
+	"github.com/alvi31182/sso-less/internal/config"
 
 	log "github.com/alvi31182/log-go"
 )
