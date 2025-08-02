@@ -1,9 +1,9 @@
-module sso-less
+module github.com/alvi31182/sso-less
 
 go 1.23.11
 
 require (
-	github.com/alvi31182/grpc-protos v0.0.1
+	github.com/alvi31182/grpc-protos v0.0.2
 	github.com/alvi31182/log-go v0.1.0
 	github.com/ilyakaznacheev/cleanenv v1.5.0
 )
